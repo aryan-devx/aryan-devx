@@ -12,13 +12,19 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,c" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aryank87&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgarg-dev&" alt="piyushgarg-dev" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🏆 GitHub Trophies
 
@@ -28,15 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryank87&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryank87&theme=tokyonight" />
-</p>
-
----
 
 ### 💬 About Me
 
@@ -44,6 +42,14 @@
 - 🎯 Focused on mastering **System Design**, **OOP**, and **Database Optimization**.
 - 🏋️‍♂️ Gym-goer, calisthenics lover, and healthy food cook!
 - 🎸 Also play the guitar and explore tech like embedded systems & game dev.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,c" />
+</p>
 
 ---
 
@@ -56,7 +62,7 @@
   <a href="https://www.linkedin.com/in/aryankumar000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:aryankumar91237@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
