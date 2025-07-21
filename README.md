@@ -1,16 +1,19 @@
-# Hi 👋, I'm Aryan Kumar
+# 👋 Hi, I'm Aryan Kumar
 
-🎓 A passionate Computer Science student from India  
-💻 I love building things with Java, Web technologies, and System Design  
-📚 Currently learning: AWS, SQL, and Spring Boot  
-📫 Reach me at: aryankumar@example.com  
+## 🚀 About Me
+- 🎓 Computer Science Student  
+- 💻 Passionate about Java, DSA, Web Development & Open Source  
+- 🛠️ Currently learning Open Source, JDBC and DSA.  
+- 🎯 Goal: Contribute to GSoC and grow as a full-stack java developer  
 
----
+## 🔧 Tech Stack
+- 💻 Languages: Java, C/C++, HTML, CSS, JavaScript, SQL
+- ⚙️ Tools: Git, GitHub, VS Code, IntelliJ, MySQL, WordPress
+- 🌐 Web: React, Node.js (learning), WordPress
 
-### 🏆 GitHub Stats & Badges
+## 📈 GitHub Stats
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryankumar&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aryank87&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryank87&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryank87&layout=compact&theme=radical)](https://github.com/aryank87)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://aryanspace.github.io)
