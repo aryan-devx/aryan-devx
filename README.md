@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">In journey of Full Stack Java Developer</h3>
 
 <p align="center">
   <a href="https://aryanspace.github.io" target="_blank">
