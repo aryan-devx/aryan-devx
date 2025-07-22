@@ -29,7 +29,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryank87&theme=algolia&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan-devx&theme=algolia&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
