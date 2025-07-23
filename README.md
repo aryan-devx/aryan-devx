@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=aryan-devx&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgarg-dev&" alt="aryan-devx" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-devx&" alt="aryan-devx" />
     </td>
   </tr>
 </table>
